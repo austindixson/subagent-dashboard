@@ -5,7 +5,7 @@
   "version": "1.1.0",
   "displayName": "Subagent Dashboard | OpenClaw Skill",
   "description": "Web dashboard for real-time monitoring and management of OpenClaw subagents. View active agents, transcripts, task progress, and manage stalled sessions.",
-  "author": "RuneweaverStudios",
+  "author": "austindixson",
   "tags": [
     "subagent",
     "dashboard",
